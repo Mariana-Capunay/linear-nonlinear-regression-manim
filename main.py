@@ -1,6 +1,3 @@
-# alta calidad: manim -pqh main.py RegressionVideo
-# baja calidad: manim -pql main.py RegressionVideo
-
 from manim import *
 
 class RegressionVideo(ThreeDScene):
