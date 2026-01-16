@@ -43,6 +43,7 @@ The final video is rendered in MPEG format and illustrates:
 The final rendered video (including background music added during post-production)
 is available at:
 
+https://drive.google.com/file/d/1eGQMJE3XKjtKSJyJBy9ND90u938gXtF7/view?usp=drive_link
 
 
 Note: The video included in this repository corresponds to the raw Manim render
